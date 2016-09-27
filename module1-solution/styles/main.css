@@ -1,0 +1,17 @@
+.bordergreen {
+	border-color: green;
+}
+
+.borderred {
+	border-color: red;
+}
+
+.green {
+	color: green;
+	font-size: 18px;
+}
+
+.red {
+	color: red;
+	font-size: 18px;
+}
